@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:dataid;datatype:int,name:dataname;datatype:string,name:update_time;datatype:timestamp" />
+	<infoitem key="UD_Recordset2" value="name:dataid;datatype:int,name:dataname;datatype:string,name:update_time;datatype:timestamp" />
+	<infoitem key="UD_Recordset3" value="name:dataid;datatype:int,name:dataname;datatype:string,name:update_time;datatype:timestamp" />
+	<infoitem key="UD_Recordset4" value="name:dataid;datatype:int,name:dataname;datatype:string,name:update_time;datatype:timestamp" />
+	<infoitem key="UD_Recordset5" value="name:dataid;datatype:int,name:dataname;datatype:string,name:update_time;datatype:timestamp" />
+	<infoitem key="UD_Recordset6" value="name:dataid;datatype:int,name:dataname;datatype:string,name:update_time;datatype:timestamp" />
+	<infoitem key="UD_Recordset7" value="name:dataid;datatype:int,name:dataname;datatype:string,name:update_time;datatype:timestamp" />
+	<infoitem key="UD_Recordset8" value="name:dataid;datatype:int,name:dataname;datatype:string,name:update_time;datatype:timestamp" />
+	<infoitem key="UD_Recordset9" value="name:dataid;datatype:int,name:dataname;datatype:string,name:update_time;datatype:timestamp" />
+	<infoitem key="UD_Recordset10" value="name:dataid;datatype:int,name:dataname;datatype:string,name:update_time;datatype:timestamp" />
+</info>
